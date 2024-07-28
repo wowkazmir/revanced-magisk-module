@@ -7,8 +7,8 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 
 [YouTube]
 build-mode = "both"
-excluded-patches = ""
-included-patches = ""
+excluded-patches = "'Hide cast button' 'Theme' 'Spoof app version'"
+included-patches = "'Video ads' 'Hide ads' 'Spoof device dimensions' 'Minimized playback' 'Remove tracking query parameter' 'Bypass URL redirects' 'Open links externally' 'Client spoof' 'Disable zoom haptics' 'HDR auto brightness' 'Playback speed' 'Remember video quality' 'Disable precise seeking gesture' 'Remove viewer discretion dialog' 'Wide searchbar' 'SponsorBlock' 'Disable resuming Shorts on startup' 'Hide breaking news shelf' 'Hide floating microphone button' 'Hide crowdfunding box'"
 version = "auto"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube" # fallback
