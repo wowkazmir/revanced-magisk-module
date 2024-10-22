@@ -8,7 +8,7 @@ parallel-jobs = 1
 
 [YouTube]
 build-mode = "both"
-excluded-patches = "'GmsCore support' 'Hide cast button'"
+excluded-patches = "'GmsCore support' 'Hide cast button' 'Playback speed'" 
 included-patches = ""
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube" # fallback
