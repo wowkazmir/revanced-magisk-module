@@ -7,8 +7,8 @@ parallel-jobs = 1
 # you can use rvmm-config-gen to generate a config
 
 [YouTube]
-build-mode = "both"
-excluded-patches = "'GmsCore support'" 
+build-mode = "module"
+excluded-patches = "'Downloads' 'Swipe controls' 'Disable auto captions' 'Hide seekbar' 'Disable suggested video end screen' 'Hide timestamp' 'Return YouTube Dislike' 'Spoof app version' 'Enable tablet layout' 'Theme' 'Alternative thumbnails' 'Enable debugging' 'GmsCore support' 'Playback speed'"
 included-patches = ""
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
