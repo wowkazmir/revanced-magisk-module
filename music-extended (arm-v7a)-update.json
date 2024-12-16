@@ -1,6 +1,6 @@
 {
-  "version": "v7.16.53 (5)",
-  "versionCode": 5,
-  "zipUrl": "https://github.com/wowkazmir/revanced-magisk-module/releases/download/5/music-revanced-extended-magisk-v7.16.53-arm-v7a.zip",
+  "version": "v7.16.53 (12)",
+  "versionCode": 12,
+  "zipUrl": "https://github.com/wowkazmir/revanced-magisk-module/releases/download/12/music-revanced-extended-magisk-v7.16.53-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/wowkazmir/revanced-magisk-module/update/build.md"
 }
