@@ -1,6 +1,6 @@
 {
   "version": "v7.22.0.740933857 (patches: 5.18.0)",
-  "versionCode": 36,
-  "zipUrl": "https://github.com/wowkazmir/revanced-magisk-module/releases/download/36/googlephotos-revanced-magisk-v7.22.0.740933857-arm-v7a.zip",
+  "versionCode": 37,
+  "zipUrl": "https://github.com/wowkazmir/revanced-magisk-module/releases/download/37/googlephotos-revanced-magisk-v7.22.0.740933857-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/wowkazmir/revanced-magisk-module/update/build.md"
 }
