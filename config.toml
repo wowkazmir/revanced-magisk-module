@@ -32,6 +32,7 @@ uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 [Spotify]
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 version = "9.0.36.683"
+build-mode = "module"
 
 # dont build on gh actions (https://github.com/j-hc/revanced-magisk-module/issues/554)
 [Music-Extended]
@@ -67,7 +68,3 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
 build-mode = "apk"
 dpi = "120-640dpi"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
-
-[com.spotify.music]
-apkmirror-dlurl = "https://apkmirror.com/apk/https://apkpure.com/spotify-music-and-podcasts-for-android/com.spotify.music"
-build-mode = "module"
