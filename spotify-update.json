@@ -1,6 +1,6 @@
 {
-  "version": "v9.0.36.683 (patches: 5.22.0)",
-  "versionCode": 45,
-  "zipUrl": "https://github.com/wowkazmir/revanced-magisk-module/releases/download/45/spotify-revanced-magisk-v9.0.36.683-all.zip",
+  "version": "v9.0.36.683 (patches: 5.23.0)",
+  "versionCode": 46,
+  "zipUrl": "https://github.com/wowkazmir/revanced-magisk-module/releases/download/46/spotify-revanced-magisk-v9.0.36.683-all.zip",
   "changelog": "https://raw.githubusercontent.com/wowkazmir/revanced-magisk-module/update/build.md"
 }
