@@ -1,6 +1,6 @@
 {
-  "version": "v8.05.51 (patches 5.27.0)",
-  "versionCode": 53,
-  "zipUrl": "https://github.com/wowkazmir/revanced-magisk-module/releases/download/53/music-revanced-magisk-v8.05.51-arm-v7a.zip",
+  "version": "v8.05.51 (patches 5.28.0)",
+  "versionCode": 54,
+  "zipUrl": "https://github.com/wowkazmir/revanced-magisk-module/releases/download/54/music-revanced-magisk-v8.05.51-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/wowkazmir/revanced-magisk-module/update/build.md"
 }
